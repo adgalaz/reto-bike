@@ -1,0 +1,35 @@
+  .Totem {
+      color: #FF9A19;
+  }
+  
+  h5 {
+      font-size: 1.5em;
+      font-weight: bold;
+  }
+  
+  .box {
+      width: 100%;
+      height: 10em;
+      background-color: #FF9A19;
+  }
+  
+  .text {
+      font-size: 0.7em;
+  }
+  
+  .fa-heart {
+      color: #E5E6EB;
+      font-size: 2em;
+      margin-top: 4.5em;
+      margin-left: 80%;
+  }
+  
+  .fa-heart:hover {
+      color: #C3CFDB;
+      cursor: pointer;
+  }
+  
+  .icons {
+      margin: 0;
+      padding-bottom: 1em
+  }
